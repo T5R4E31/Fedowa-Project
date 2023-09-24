@@ -10,4 +10,4 @@ This Remix *should* have :
   - A nice and clean uwu theme
   - An alias instead of "dnf" (to decide)
   - Obviousely named "Fedowa" and have the nice Fedowa logo
-  - Some possible additional packages like Latte
+  - Some possible additional packages like Latte Dock
